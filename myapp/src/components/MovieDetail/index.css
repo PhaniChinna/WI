@@ -1,0 +1,62 @@
+.MovieDetailPAge {
+  background-color: #272b33;
+  height: auto;
+  padding: 1px;
+  width: auto;
+}
+
+.ListCard {
+  background-color: #010a17;
+  padding: 1px;
+  width: auto;
+  height: auto;
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.Mov-del-image {
+  width: 200px;
+  height: 300px;
+  padding: 10px;
+}
+
+.MovieTitle {
+  color: white;
+  margin-left: 30px;
+  font-size: 35px;
+  font-family: sans-serif;
+}
+
+.MovieTitleLst {
+  color: white;
+  margin-left: 30px;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: sans-serif;
+}
+.ListCard1 {
+  background-color: #010a17;
+  padding: 10px;
+  width: auto;
+  height: auto;
+  margin: 10px;
+  margin-top: -10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.MovieTitle1 {
+  color: white;
+  margin-left: 30px;
+  font-size: 27px;
+  padding: 5px;
+  font-family: sans-serif;
+}
+
+.LeftImagge {
+  width: 200px;
+  height: 300px;
+  padding: 10px;
+}

@@ -1,0 +1,25 @@
+.UpMovies {
+    background-color: #272b33;
+    padding: 1px;
+    padding: 0.1px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap; 
+  }
+  
+  .UpImage {
+      height: 300px;
+      width: 240px;
+      border-radius: 13px;
+  }
+  
+  .eachsUnOrderListType {
+      list-style-type: none;
+  }
+  
+  .eachUpcoming {
+      color: white;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      margin-left: 10px;
+  }

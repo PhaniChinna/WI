@@ -1,0 +1,25 @@
+.TopMovies {
+  background-color: #272b33;
+  padding: 1px;
+  padding: 0.1px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap; 
+}
+
+.TopImage {
+    height: 300px;
+    width: 260px;
+    border-radius: 13px;
+}
+
+.eachsUnOrderList {
+    list-style-type: none;
+}
+
+.eachoriginal {
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
